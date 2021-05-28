@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/images/category/men.jpg",
+    "name": "Sofás",
+    "count": 12,
+    "url": "/categorias/sofas"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/category/shoes.jpg",
+    "name": "Poltronas",
+    "count": 23,
+    "url": "/categorias/poltronas"
+  }
+]

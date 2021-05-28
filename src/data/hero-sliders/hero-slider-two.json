@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "subtitle": "Os melhores sofás",
+    "title": "Lorem ipsum, <br /> dolor",
+    "url": "/categorias/sofas",
+    "image": "/assets/images/hero-slider/hero-slider-two/1.png",
+    "bgColor": "#ebf4f2"
+  },
+  {
+    "id": "2",
+    "subtitle": "As melhores poltronas",
+    "title": "Lorem ipsum, <br /> dolor",
+    "url": "/categorias/poltronas",
+    "image": "/assets/images/hero-slider/hero-slider-two/2.png",
+    "bgColor": "#f4ede7"
+  },
+  {
+    "id": "3",
+    "subtitle": "Os melhores produtos",
+    "title": "Lorem ipsum, <br /> dolor",
+    "url": "/",
+    "image": "/assets/images/hero-slider/hero-slider-two/3.png",
+    "bgColor": "#ebf4f2"
+  }
+]
